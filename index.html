@@ -5,7 +5,7 @@
     <meta charset="UTF-8" />
     <link rel="stylesheet" href="./assets/css/style.css">
    <!--  Updated title -->
-    <title>Marketing Website</title>
+    <title>Horiseon</title>
 </head>
 
 <body>
@@ -14,10 +14,10 @@
         <div>
             <ul>
                 <li>
-                    <a href="#online-reputation-management">Online Reputation Management</a>
+                    <a href="#search-engine-optimization">Search Engine Optimization</a>
                 </li>
                 <li>
-                    <a href="#search-engine-optimization">Search Engine Optimization</a>
+                    <a href="#online-reputation-management">Online Reputation Management</a>
                 </li>
                 <li>
                     <a href="#social-media-marketing">Social Media Marketing</a>
@@ -27,22 +27,28 @@
     </div>
     <div class="hero"></div>
     <div class="content"> 
-            <!-- FIX LINK --> <!-- Added alt to img src -->
-        <div class="search-engine-optimization">
+            <!-- Add ID= before class, Added alt to img src, Removed / at end -->
+        <div id="search-engine-optimization" class="navbar">
             <img src="./assets/images/search-engine-optimization.jpg" class="float-left" alt="optimization">
             <h2>Search Engine Optimization</h2>
             <p>
                 The dominance of mobile internet use means that users are searching for the right business as they travel, shop, or sit on their couch at home. Search Engine Optimization (SEO) allows you to increase your visibility and find the right customers for your business.
             </p>
+            
         </div>
-        <div id="online-reputation-management" class="online-reputation-management">
+        <!-- Changed class name to navbar -->
+        <div id="online-reputation-management" class="navbar">
+            <!-- Added alt to img src --> <!-- Removed / at end -->
             <img src="./assets/images/online-reputation-management.jpg" class="float-right" alt="management">
             <h2>Online Reputation Management</h2>
+            
             <p>
                 The web is full of opinions, and some of these can be negative. Social media allows anyone with an internet connection to say whatever they want about your business. Online Reputation Management gives you the control over what potential customers see when they search for your business.
-            </p>
-        </div>
-        <div id="social-media-marketing" class="social-media-marketing">
+            </p> 
+         </div>
+         <!-- Changed class name to navbar -->
+        <div id="social-media-marketing" class="navbar">
+            <!-- Added alt to img src, Removed / at end  -->
             <img src="./assets/images/social-media-marketing.jpg" class="float-left" alt="marketing">
             <h2>Social Media Marketing</h2>
             <p>
@@ -50,29 +56,34 @@
             </p>
         </div>
     </div> <!-- FIX Margin -->
-    <div class="benefits">
-        <div class="benefit-lead">
+    <aside class="rightbar">
+        
+        <div class="benefit">
             <h3>Lead Generation</h3>
-            <img src="./assets/images/lead-generation.png">
+             <!-- Removed / at end...., added alt comments-->
+            <img src="./assets/images/lead-generation.png" alt="generation">
             <p>
                 Inbound strategies for lead generation require less work for your business, bringing customers directly to your website.
             </p>
         </div>
-        <div class="benefit-brand">
+        <div class="benefit">
             <h3>Brand Awareness</h3>
-            <img src="./assets/images/brand-awareness.png">
+             <!-- Removed / at end, added alt comments -->
+            <img src="./assets/images/brand-awareness.png" alt="awareness_pic">
             <p>
                 Users find your business through paid and organic searches, increasing the search ranking and visibility for your business.
             </p>
         </div>
-        <div class="benefit-cost">
+        <div class="benefit">
             <h3>Cost Management</h3>
-            <img src="./assets/images/cost-management.png"><!-- </img> -->
+            <!-- Removed </img> already self closing, , added alt comments -->
+            <img src="./assets/images/cost-management.png" alt="management">
             <p>
                 As the search ranking for your business increases, your advertising costs decrease, and you no longer need to advertise your page.
             </p>
         </div>
-    </div>
+    </aside>        
+    
     <div class="footer">
         <h2>Made with ❤️️ by Horiseon</h2>
         <p>

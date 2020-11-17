@@ -20,8 +20,9 @@ body {
     font-size: 48px;
 }
 
+/* Changed color to stand out on webpage */
 .header h1 .seo {
-    color: #d9dcd6;
+    color: red;
 }
 
 .header div {
@@ -75,46 +76,7 @@ p {
     margin-left: 20px;
 }
 
-.benefits {
-    margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-}
-
-/* .benefit-lead, .benefit-brand, .benefit-cost merged into 1 css */ 
-.benefit-lead,
-.benefit-brand,
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-/* .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 merged into 1 css */
-.benefit-lead h3,
-.benefit-brand h3,
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-/* .benefit-lead img, .benefit-brand img, .benefit-cost img  merged into 1 css */
-.benefit-lead img,
-.benefit-brand img,
-.benefit-cost img  {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-/* .search-engine-optimization, .online-reputation-management, .social-media-marketing merged into 1 css  */
-.search-engine-optimization,
-.online-reputation-management,
-.social-media-marketing  {
+.navbar  {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -123,19 +85,47 @@ p {
     color: #ffffff;
 }
 
-/* .search-engine-optimization img, .online-reputation-management img, .social-media-marketing  img merged into 1 css */
-.search-engine-optimization img,
-.online-reputation-management img,
-.social-media-marketing img {
+/* .search-engine-optimization img, .online-reputation-management img, .social-media-marketing  img merged into 1 css, changed naming convention */
+.navbar img {
     max-height: 200px;
 }
 
-/* .search-engine-optimization, .online-reputation-management, .social-media-marketing merged into 1 css */
-.search-engine-optimization h2,
-.online-reputation-management h2,
-.social-media-marketing h2 {
+/* .search-engine-optimization, .online-reputation-management, .social-media-marketing merged into 1 css, changed naming convention */
+.navbar h2 {
     margin-bottom: 20px;
     font-size: 36px;
+}
+
+/* moved group of .benefit-lead, .benefit-brand, .benefit-cost below search-engines, .benefit-lead, .benefit-brand, .benefit-cost merged into 1 css, changed naming convention */ 
+.benefit {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+/* moved group of .benefit-lead, .benefit-brand, .benefit-cost below search-engines, .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 merged into 1 css, changed naming convention */
+.benefit h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+/* moved group of .benefit-lead, .benefit-brand, .benefit-cost below search-engines *, .benefit-lead img, .benefit-brand img, .benefit-cost img  merged into 1 css, changed naming convention */
+.benefit img  {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Changed name to aside, moved above footer for flow, and added padding-bottom */
+.rightbar {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2589bd;
+    padding-bottom: 43px;
 }
 
 /* Fix footer */
