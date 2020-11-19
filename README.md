@@ -39,13 +39,13 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage 
 
-Provide instructions and examples for use. Include screenshots as needed. 
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-```md
-![alt text](assets/images/screenshot.png)
-```
+![awareness](assets/images/brand-awareness.png)
+![cost](assets/images/cost-management.png)
+![digital](assets/images/digital-marketing-meeting.png)
+![lead](assets/images/lead-generation.png)
+![reputation](assets/images/online-reputation-management.png)
+![optimization](assets/images/search-enging-optimization.png)
+![marketing](assets/images/social-media-marketing.png)
 
 
 ## Credits
