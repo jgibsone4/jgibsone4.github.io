@@ -41,11 +41,11 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ![awareness](assets/images/brand-awareness.png)
 ![cost](assets/images/cost-management.png)
-![digital](assets/images/digital-marketing-meeting.png)
+![digital](assets/images/digital-marketing-meeting.jpg)
 ![lead](assets/images/lead-generation.png)
-![reputation](assets/images/online-reputation-management.png)
-![optimization](assets/images/search-enging-optimization.png)
-![marketing](assets/images/social-media-marketing.png)
+![reputation](assets/images/online-reputation-management.jpg)
+![optimization](assets/images/search-engine-optimization.jpg)
+![marketing](assets/images/social-media-marketing.jpg)
 
 
 ## Credits
