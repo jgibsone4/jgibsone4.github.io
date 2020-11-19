@@ -1,4 +1,4 @@
-![GitHub User's stars](https://img.shields.io/github/stars/jgibsone4?style=social)
+![GitHub all releases](https://img.shields.io/github/downloads/jgibsone4/jgibsone4.github.io/total?style=flat-square)
 ![GitHub Repo stars](https://img.shields.io/github/stars/jgibsone4/jgibsone4.github.io?style=flat-square)
 
 
@@ -50,11 +50,13 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Credits
 
+Collaborators
 Kenneth Keller: 
 J.K. Royston:
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
+Tutorials
 https://www.youtube.com/watch?v=P8xMWWfbvR4
 
 
