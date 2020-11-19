@@ -1,3 +1,8 @@
+![GitHub User's stars](https://img.shields.io/github/stars/jgibsone4?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/jgibsone4/jgibsone4.github.io?style=flat-square)
+https://img.shields.io/github/followers/jgibsone4?style=flat-square
+
+
 # Your Project Title
 
 ## Description 
@@ -84,13 +89,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 ---
 
-🏆 The sections listed above are the minimum for a good README, but your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
-
-Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
 ## Features
 
