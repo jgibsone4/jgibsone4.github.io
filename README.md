@@ -1,6 +1,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/jgibsone4?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/jgibsone4/jgibsone4.github.io?style=flat-square)
-https://img.shields.io/github/followers/jgibsone4?style=flat-square
+
 
 
 # Your Project Title
