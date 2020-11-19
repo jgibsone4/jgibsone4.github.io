@@ -55,7 +55,7 @@ J.K. Royston:
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-If you followed tutorials, include links to those here as well.
+https://www.youtube.com/watch?v=P8xMWWfbvR4
 
 
 ## License
