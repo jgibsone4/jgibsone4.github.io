@@ -115,7 +115,7 @@ p {
     max-width: 150px;
 }
 
-/* Changed name to aside, moved above footer for flow, and added padding-bottom */
+/* Changed name to aside, moved above footer for flow, and added padding-bottom to fit align when viewd on my monitor */
 .rightbar {
     margin-right: 20px;
     padding: 20px;
@@ -128,14 +128,14 @@ p {
     padding-bottom: 43px;
 }
 
-/* Fix footer */
-.footer {
+/* changed from div to footer */
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
