@@ -33,8 +33,10 @@ If your README is very long, add a table of contents to make it easy for users t
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
+* [Contributing](##contributing)
+* [Code of Conduct](##code of conduct)
+* [Tests](#tests)
 * [License](#license)
-* [Code of Conduct](#code of conduct)
 
 
 ## Installation
