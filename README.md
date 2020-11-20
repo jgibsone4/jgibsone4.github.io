@@ -30,6 +30,7 @@ If your README is very long, add a table of contents to make it easy for users t
 * [Usage](#usage)
 * [Credits](#credits)
 * [License](#license)
+* [Code of Conduct](#code of conduct)
 
 
     ## Installation
@@ -50,16 +51,17 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Credits
 
-Collaborators| GitHub repository
------------- | -------------
-Kenneth Keller | Content from cell 2
-J.K. Royston | Content in the second column
+Collaborators                                   | GitHub repository
+------------                                    | -------------
+Kenneth Keller                                  | Content from cell 2
+J.K. Royston                                    | Content in the second column
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-Tutorials| Link
------------- | -------------
+Tutorials/Info                                  | Link
+------------                                    | -------------
 Add some cool badges in your GitHub Repository  | https://www.youtube.com/watch?v=P8xMWWfbvR4
+VSCode Repository Readme.md file                | (https://github.com/microsoft/vscode
 
 
 ## License
@@ -71,39 +73,18 @@ BSD 2-Clause License
 Copyright (c) 2020, Jason Gibson
 All rights reserved.
 
-Redistribution and use in source and binary forms, with or without
-modification, are permitted provided that the following conditions are met:
-
-1. Redistributions of source code must retain the above copyright notice, this
-   list of conditions and the following disclaimer.
-
-2. Redistributions in binary form must reproduce the above copyright notice,
-   this list of conditions and the following disclaimer in the documentation
-   and/or other materials provided with the distribution.
-
-THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
-AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
-IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
-DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
-FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
-DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
-SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
-CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
-OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
-OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-
 ---
 
 
-
-## Features
-
-If your project has a lot of features, consider adding a heading called "Features" and listing them there.
-
 ## Contributing
 
-If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
+* [Submit bugs and feature requests](https://github.com/jgibsone4/jgibsone4.github.io/issues), and help us verify as they are checked in
+* Review [source code changes](https://github.com/jgibsone4/jgibsone4.github.io/pulls)
+* Review the [documentation](https://github.com/jgibsone4/jgibsone4.github.io) and make pull requests for anything from typos to new content
+
+## Code of Conduct
+
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
 ## Tests
 
