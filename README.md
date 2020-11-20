@@ -64,6 +64,8 @@ Add some cool badges in your GitHub Repository  | https://www.youtube.com/watch?
 
 ## License
 
+[License Guidlines](docs/License.md)
+
 BSD 2-Clause License
 
 Copyright (c) 2020, Jason Gibson
