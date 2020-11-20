@@ -38,7 +38,6 @@ If your README is very long, add a table of contents to make it easy for users t
 * [Credits](#credits)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
-* [Tests](#tests)
 * [License](#license)
 
 
@@ -49,13 +48,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage 
 
-![awareness](assets/images/brand-awareness.png)
-![cost](assets/images/cost-management.png)
-![digital](assets/images/digital-marketing-meeting.jpg)
-![lead](assets/images/lead-generation.png)
-![reputation](assets/images/online-reputation-management.jpg)
-![optimization](assets/images/search-engine-optimization.jpg)
-![marketing](assets/images/social-media-marketing.jpg)
+
 
 
 ## Credits
@@ -64,8 +57,6 @@ Collaborators                                   | GitHub repository
 ------------                                    | -------------
 Kenneth Keller                                  | https://github.com/kenkanifffromct
 J.K. Royston                                    | https://github.com/jxhnkndl
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
 Tutorials/Info                                  | Link
 ------------                                    | -------------
@@ -83,11 +74,6 @@ VSCode Repository Readme.md file                | (https://github.com/microsoft/
 
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
-
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them.
 
 
 ## License
