@@ -1,5 +1,6 @@
 ![GitHub all releases](https://img.shields.io/github/downloads/jgibsone4/jgibsone4.github.io/total?style=flat-square)
 ![GitHub Repo stars](https://img.shields.io/github/stars/jgibsone4/jgibsone4.github.io?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/jgibsone4/jgibsone4.github.io?style=social)
 
 
 
@@ -61,8 +62,8 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 Collaborators                                   | GitHub repository
 ------------                                    | -------------
-Kenneth Keller                                  | Content from cell 2
-J.K. Royston                                    | Content in the second column
+Kenneth Keller                                  | https://github.com/kenkanifffromct
+J.K. Royston                                    | https://github.com/jxhnkndl
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
