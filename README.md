@@ -50,14 +50,16 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Credits
 
-Collaborators
-Kenneth Keller: 
-J.K. Royston:
+Collaborators| GitHub repository
+------------ | -------------
+Kenneth Keller | Content from cell 2
+J.K. Royston | Content in the second column
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
-Tutorials
-https://www.youtube.com/watch?v=P8xMWWfbvR4
+Tutorials| Link
+------------ | -------------
+Add some cool badges in your GitHub Repository  | https://www.youtube.com/watch?v=P8xMWWfbvR4
 
 
 ## License
