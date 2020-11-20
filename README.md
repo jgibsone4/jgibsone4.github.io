@@ -30,13 +30,13 @@ If you need an example of a good README, check out [the VSCode repository](https
 
 If your README is very long, add a table of contents to make it easy for users to find what they need.
 
-* [Title](##Horiseon%Social%Solution%Services,%Inc)
+* [Title](#horiseon-social-solution-services-inc)
 * [Description](#description)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [Contributing](#contributing)
-* [Code of Conduct](#code%of%conduct)
+* [Code of Conduct](#code-of-conduct)
 * [Tests](#tests)
 * [License](#license)
 
