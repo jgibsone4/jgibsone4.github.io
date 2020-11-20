@@ -84,10 +84,9 @@ Go the extra mile and write tests for your application. Then provide examples on
 
 ## License
 
-[License Guidlines](docs/License.txt)
+[License Guidlines](/License.txt)
 
 BSD 2-Clause License
-
 Copyright (c) 2020, Jason Gibson
 All rights reserved.
 
