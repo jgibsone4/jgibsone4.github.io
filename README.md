@@ -5,6 +5,7 @@
 
 # Your Project Title
 
+
 ## Description 
 
 Your GitHub profile is an extremely important aspect of your public identity as a developer. A well-crafted one allows you to show off your work to other developers as well as potential employers. An important component of your GitHub profile—and one that many new developers often overlook—is the README.md file.
@@ -33,7 +34,7 @@ If your README is very long, add a table of contents to make it easy for users t
 * [Code of Conduct](#code of conduct)
 
 
-    ## Installation
+## Installation
 
 What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
@@ -64,18 +65,6 @@ Add some cool badges in your GitHub Repository  | https://www.youtube.com/watch?
 VSCode Repository Readme.md file                | (https://github.com/microsoft/vscode
 
 
-## License
-
-[License Guidlines](docs/License.md)
-
-BSD 2-Clause License
-
-Copyright (c) 2020, Jason Gibson
-All rights reserved.
-
----
-
-
 ## Contributing
 
 * [Submit bugs and feature requests](https://github.com/jgibsone4/jgibsone4.github.io/issues), and help us verify as they are checked in
@@ -84,9 +73,23 @@ All rights reserved.
 
 ## Code of Conduct
 
+
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+
 
 ## Tests
 
 Go the extra mile and write tests for your application. Then provide examples on how to run them.
+
+
+## License
+
+[License Guidlines](docs/License.txt)
+
+BSD 2-Clause License
+
+Copyright (c) 2020, Jason Gibson
+All rights reserved.
+
+---
 
