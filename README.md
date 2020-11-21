@@ -2,7 +2,7 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/jgibsone4/jgibsone4.github.io?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/jgibsone4/jgibsone4.github.io?style=social)
 
-
+---
 
 # Horiseon Social Solution Services, Inc
 
