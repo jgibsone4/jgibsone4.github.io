@@ -38,6 +38,10 @@ Collaborators                                   | GitHub repository
 Kenneth Keller                                  | https://github.com/kenkanifffromct
 J.K. Royston                                    | https://github.com/jxhnkndl
 
+
+Was also in a study group with Kiara Ferguson, Gabe Reickart, and Amanda Wiehrs.  
+
+
 Tutorials/Info                                  | Link
 ------------                                    | -------------
 Add some cool badges in your GitHub Repository  | https://www.youtube.com/watch?v=P8xMWWfbvR4
