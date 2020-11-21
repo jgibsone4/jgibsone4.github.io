@@ -9,15 +9,8 @@
 
 ## Description 
 
+The motivation of this project was to improve the accessibility, and semantic structure of the website.  In addition, fix broken links using HTML & CSS.  The project was also built to modify the homepage appearance, and clearly indicate the purpose of each section.
 
-and a short description explaining
-the what, 
-why, 
-and how. 
-What was your motivation? 
-Why did you build this project?
-What problem does it solve? 
-What did you learn? What makes your project stand out? 
 
 Deployed link:
 https://github.com/jgibsone4/jgibsone4.github.io
@@ -38,7 +31,7 @@ If your README is very long, add a table of contents to make it easy for users t
 
 ## Usage 
 
-![Screenshot of Client Site](https://jgibsone4.github.io/images/01-html-css-git-homework-demo.png)
+![Screenshot of Client Site](https://github.com/jgibsone4/jgibsone4.github.io/blob/main/assets/images/01-html-css-git-homework-demo.png)
 
 
 ## Credits
