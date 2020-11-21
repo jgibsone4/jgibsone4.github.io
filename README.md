@@ -44,7 +44,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 
 ## Usage 
 
-
+![Screenshot of Client Site](https://jgibsone4.github.io/images/01-html-css-git-homework-demo.png)
 
 
 ## Credits
