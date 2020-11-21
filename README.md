@@ -9,16 +9,13 @@
 
 ## Description 
 
-The motivation of this project was to improve the accessibility, and semantic structure of the website.  In addition, fix broken links using HTML & CSS.  The project was also built to modify the homepage appearance, and clearly indicate the purpose of each section.
-
+The motivation of this project was to improve the accessibility, and semantic structure of the website.  For example, the SEO was updated to help users that may be color-blind, and other users.  In addition, fix broken links using HTML & CSS, ensure headings followed a sequential .  The semantic structure included proper heading elements, and images clearly notated with alt wording.  The project was also built to modify the homepage appearance, and clearly indicate the purpose of each section.
 
 Deployed link:
 https://github.com/jgibsone4/jgibsone4.github.io
 
 
 ## Table of Contents
-
-If your README is very long, add a table of contents to make it easy for users to find what they need.
 
 * [Title](#horiseon-social-solution-services-inc)
 * [Description](#description)
