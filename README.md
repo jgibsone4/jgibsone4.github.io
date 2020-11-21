@@ -4,7 +4,7 @@
 
 
 
-## Horiseon Social Solution Services, Inc
+# Horiseon Social Solution Services, Inc
 
 
 ## Description 
@@ -29,17 +29,11 @@ If your README is very long, add a table of contents to make it easy for users t
 
 * [Title](#horiseon-social-solution-services-inc)
 * [Description](#description)
-* [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#credits)
 * [Contributing](#contributing)
 * [Code of Conduct](#code-of-conduct)
 * [License](#license)
-
-
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
 
 
 ## Usage 
@@ -66,8 +60,8 @@ VSCode Repository Readme.md file                | https://github.com/microsoft/v
 * Review [source code changes](https://github.com/jgibsone4/jgibsone4.github.io/pulls)
 * Review the [documentation](https://github.com/jgibsone4/jgibsone4.github.io) and make pull requests for anything from typos to new content
 
-## Code of Conduct
 
+## Code of Conduct
 
 This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
 
