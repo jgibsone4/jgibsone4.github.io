@@ -9,7 +9,7 @@
 
 ## Description 
 
-The motivation of this project was to improve the accessibility, and semantic structure of the website.  For example, the SEO was updated to help users that may be color-blind, and other users.  In addition, fix broken links using HTML & CSS, ensure headings followed a sequential .  The semantic structure included proper heading elements, and images clearly notated with alt wording.  The project was also built to modify the homepage appearance, and clearly indicate the purpose of each section.
+The motivation of this project was to improve the accessibility, and semantic structure of the website.  For example, the SEO was updated to help users that may be color-blind, and other users.  In addition, fix broken links using HTML & CSS, ensure headings followed a sequential .  The semantic structure included proper heading elements, and images clearly notated with alt wording.  The project was also built to modify the homepage appearance, and clearly indicate the purpose of each section.  **Potential Future client** work would include addressing Responsive Design that I added to issues.
 
 Deployed link:
 https://jgibsone4.github.io/
